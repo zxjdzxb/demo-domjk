@@ -1,2 +1,2 @@
-/.parcel-cache/
+git rm -r --cached .git rm -r --cached ./.cache/
 /dist/
